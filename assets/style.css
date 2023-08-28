@@ -34,7 +34,7 @@ img {
    .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px solid rgb(149, 188, 221);
-    box-shadow: 5px 10px #95bcdd;
+    border: 5px solid gray;
+    box-shadow: 5px 10px #888888;
   }
   
